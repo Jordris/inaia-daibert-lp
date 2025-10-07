@@ -54,7 +54,7 @@ const Hero = () => {
               {/* Image placeholder - Replace with actual photo */}
               <div className="relative bg-card rounded-3xl overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                  src="/suafoto.jpg" 
                   alt="Inaiá Daibert - Psicopedagoga" 
                   className="w-full h-full object-cover"
                 />
